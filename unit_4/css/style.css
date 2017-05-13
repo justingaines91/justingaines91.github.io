@@ -1,0 +1,42 @@
+
+body{
+	text-align: center;
+	color: #fff;
+	font-family: 'Comfortaa', sans-serif;
+	background: url("http://static.highsnobiety.com/wp-content/uploads/2016/02/09170414/grailed-100-02.jpg");
+	background-size: cover;
+}
+
+h1 {
+	font-family: 'Fira sans', sans-serif;
+	text-transform: uppercase;
+	font-size: 100px;
+}
+
+li{
+	font-weight: bold;
+}
+ul{
+	list-style-type: none;
+}
+p {
+	font-weight: bold;
+	font-size: 20px
+}
+header{
+	text-align: right;
+}
+
+
+.options{
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 300px;
+    width: 250px;
+}
+
+#slogan{
+	font-style: italic;
+	font-size: 40px;
+	}
